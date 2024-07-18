@@ -18,17 +18,16 @@ O objetivo do jogo é que o usuário adivinhe qual é a palavra secreta.
    
    A palavra secreta é estrada. Veja as imagens de como o jogo funcionaria:
 
-![img 1](C:\Users\luisa\OneDrive\Área de Trabalho\secret_word_game\imagens\img_1.png)
+![Primeiro Resultado](https://github.com/Luisaphysics22/secret_word_game/blob/main/imagens/img_1.png)
 
-![img 2](C:\Users\luisa\OneDrive\Área de Trabalho\secret_word_game\imagens\img_1.png)
+![Segundo Resultado](https://github.com/Luisaphysics22/secret_word_game/blob/main/imagens/img_2.png)
 
 ### Checklist ✔️✅📋
 - [x] Criar arquivo em Python com o código do jogo. <br>
 - [x] Criar README com as instruções e informações pertinentes. <br>
-- [ ] Adicionar imagens ao README <br>
+- [x] Adicionar imagens ao README <br>
 - [ ] Fazer alterações no README <br>
 - [ ] Fazer alterações no código Python <br>
-
 - [ ] Fazer merges e pull requests <br>
 - [ ] Publicar na DIO <br>
 - [ ] Divulgar no LinkedIn <br>
