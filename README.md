@@ -11,7 +11,7 @@ O objetivo do jogo é que o usuário adivinhe qual é a palavra secreta.
 ## Regras / Rules 🗒️
 - O usuário só pode digitar apenas uma letra, por tentativa.
 - Todas as tentativas, inclusive as inválidas serão computadas.
-- Se a letra digitada estiver na palavra secreta, será exibida a letra na posição correta;
+- Se a letra digitada estiver na palavra secreta, será exibida a letra na posição correta.
 - Se a letra digitada não estiver na palavra secreta serão exibidos * com a quantidade de letras da palavra.
 
 ## Exemplo / Example 🏁🚦
@@ -26,9 +26,9 @@ O objetivo do jogo é que o usuário adivinhe qual é a palavra secreta.
 - [x] Criar arquivo em Python com o código do jogo. <br>
 - [x] Criar README com as instruções e informações pertinentes. <br>
 - [x] Adicionar imagens ao README <br>
-- [ ] Fazer alterações no README <br>
-- [ ] Fazer alterações no código Python <br>
-- [ ] Fazer merges e pull requests <br>
+- [x] Fazer alterações no README <br>
+- [x] Fazer alterações no código Python <br>
+- [x] Fazer merges e pull requests <br>
 - [ ] Publicar na DIO <br>
 - [ ] Divulgar no LinkedIn <br>
 
