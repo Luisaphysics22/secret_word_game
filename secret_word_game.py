@@ -33,5 +33,6 @@ while True:
         print(f"Número de tentativas: {tentativas}")
         letras_acertadas = ''
         tentativas = 0
+        break 
     
     
